@@ -10,15 +10,19 @@
 - 📫 How to reach me: zhengliu.zhengliu@gmail.com
 
 
-## 📊 Github stats
+## 📊 Github Stats
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ZhengLiu-727&count_private=true&show_icons=true&theme=buefy" />
 </a>
 
+<!-- <a herf="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLiu-727&layout=compact&theme=buefy" />
+</a>
+ -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLiu-727&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
-
-## 🛠️ My favorite tools
+## 🛠️ My Favorite Tools
 
 #### 👨‍💻 Programming languages
 
