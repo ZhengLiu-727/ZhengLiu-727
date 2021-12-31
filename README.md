@@ -8,19 +8,16 @@
 - 🎓 I’m currently studying at National University of Singapore
 - 💬 Ask me about Anything
 - 📫 How to reach me: zhengliu.zhengliu@gmail.com
+- 📰 Personal Blog：https://www.liuzheng.site
 
 
 ## 📊 Github Stats
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhengLiu-727&count_private=true&show_icons=true&theme=buefy" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=ZhengLiu-727&count_private=true&show_icons=true&theme=vue" width = 60%/>
 
-<!-- <a herf="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLiu-727&layout=compact&theme=buefy" />
-</a>
- -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLiu-727&theme=buefy&hide_border=true&exclude_repo=PersonalBlog" width = 25%/> -->
+
 
 ## 🛠️ My Favorite Tools
 
