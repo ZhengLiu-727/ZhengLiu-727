@@ -13,10 +13,9 @@
 
 ## 📊 Github Stats
 
+| <img src="https://github-readme-stats.vercel.app/api?username=ZhengLiu-727&count_private=true&show_icons=true&theme=buefy&hide_border=true"/>| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLiu-727&layout=compact&exclude_repo=Capstone-Project&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZhengLiu-727&count_private=true&show_icons=true&theme=vue" width = 60%/>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLiu-727&theme=buefy&hide_border=true&exclude_repo=PersonalBlog" width = 25%/> -->
 
 
 ## 🛠️ My Favorite Tools
