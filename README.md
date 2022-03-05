@@ -8,7 +8,7 @@
 - 🎓 I’m currently studying at National University of Singapore
 - 💬 Ask me about Anything
 - 📫 How to reach me: zhengliu.zhengliu@gmail.com
-- 📰 Personal Blog：https://liuzheng.site
+- 📰 Personal Blog: https://liuzheng.site
 
 
 ## 📊 Github Stats
